@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-todo-list-master.iml" filepath="$PROJECT_DIR$/.idea/spring-todo-list-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-todo-list-master/todo.iml" filepath="$PROJECT_DIR$/spring-todo-list-master/todo.iml" />
+    </modules>
+  </component>
+</project>
